@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Formulir-Kontak/static/css/main.e638c4b5.css",
+    "main.js": "/Formulir-Kontak/static/js/main.a1e0f618.js",
+    "static/js/787.656c9895.chunk.js": "/Formulir-Kontak/static/js/787.656c9895.chunk.js",
+    "static/media/logo.svg": "/Formulir-Kontak/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Formulir-Kontak/index.html",
+    "main.e638c4b5.css.map": "/Formulir-Kontak/static/css/main.e638c4b5.css.map",
+    "main.a1e0f618.js.map": "/Formulir-Kontak/static/js/main.a1e0f618.js.map",
+    "787.656c9895.chunk.js.map": "/Formulir-Kontak/static/js/787.656c9895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e638c4b5.css",
+    "static/js/main.a1e0f618.js"
+  ]
+}
